@@ -1,16 +1,15 @@
-### Hi there 👋
+- 👋 Hi, I’m @Michael-faried
+- 👀 I’m interested in Data Science & Machine Learning and Web Development.
+- 🌱 I’m currently learning now in "Full Stack Development" Track.
+- 💼 I'm looking for an internship in the field of Data Science, Machine Learning or Web Development to gain practical experience and further develop my skills.
 
-<!--
-**Michael-faried/Michael-faried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 You Can Rrach me at :
+-  mickeyfarid284@gmail.com
+-  michael20191700486@cis.asu.edu.eg 
+-  www.linkedin.com/in/michael-farid-fouad
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+Michael-faried/Michael-faried is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
