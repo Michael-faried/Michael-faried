@@ -6,7 +6,7 @@
 - 📫 You Can Rrach me at :
 -  mickeyfarid284@gmail.com
 -  michael20191700486@cis.asu.edu.eg 
--  www.linkedin.com/in/michael-farid-fouad
+-  www.linkedin.com/in/michael-faridfouad/
 
 
 <!---
