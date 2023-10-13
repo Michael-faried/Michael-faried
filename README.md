@@ -1,4 +1,4 @@
-- 👋 Hi 👋🏼 , I'm Michael Farid , a Flexible, autonomous fresh graduate in Computer Science (IS) looking to leverage experience from internships, Motivated to learn from senior engineers while sharing innovative ideas. have a great experience in Data science & Machine learning, and data analytics, building responsive and scalable web apps to solve problems that delight end-users.
+-  Hi 👋🏼 , I'm Michael Farid , a Flexible, autonomous fresh graduate in Computer Science (IS) looking to leverage experience from internships, Motivated to learn from senior engineers while sharing innovative ideas. have a great experience in Data science & Machine learning, and data analytics, building responsive and scalable web apps to solve problems that delight end-users.
 - 👀 I’m interested in Data Science & Machine Learning.
 - 🌱 I’m currently learning now in SQL For Analysis & Deep Learning.
 - 💼 I'm looking for an internship in the field of Data Science, Machine Learning to gain practical experience and further develop my skills.
